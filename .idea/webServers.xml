@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="064351c9-3978-40a0-a502-74adde42a45a" name="JBoss Server" url="http://localhost:8080">
+        <fileTransfer port="0" mountedRoot="D:\install\wildfly-8.2.1.Final" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

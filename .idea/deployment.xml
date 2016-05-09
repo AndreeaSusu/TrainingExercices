@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="JBoss Server">
+    <serverData>
+      <paths name="JBoss Server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="ApplicationLayer" local="$PROJECT_DIR$/ApplicationLayer" web="/TrainingApplication/ApplicationLayer" />
+            <mapping deploy="TrainingApplication" local="$PROJECT_DIR$" web="/TrainingApplication" />
+            <mapping deploy="DataAccessLayer" local="$PROJECT_DIR$/DataAccessLayer" web="/TrainingApplication/DataAccessLayer" />
+            <mapping deploy="PresentationLayer" local="$PROJECT_DIR$/PresentationLayer" web="/TrainingApplication/PresentationLayer" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
